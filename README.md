@@ -188,13 +188,15 @@ page of videos.
 
 - GitHub: [github.com/kundan761](https://github.com/kundan761)
 - Portfolio: [kundan761.github.io](https://kundan761.github.io)
-- please refer the projects that I have added in portfolio 
+- Trendsetter: [Link](https://github.com/kundan761/Trendsetter)
+- Pingify: [Link](https://github.com/kundan761/Pingify)
+- Please refer my portfolio for more projects and details.
 
 
 ## Video links
 
-- **Candidate pitch (YouTube):** _add link here_
-- **Technical walkthrough (Loom):** _add link here_
+- **Candidate pitch (YouTube):**  [Link](https://www.loom.com/share/d01b4a2018b4499ba9b7299b8b51e8ef)
+- **Technical walkthrough (Loom):** [Link](https://www.loom.com/share/d01b4a2018b4499ba9b7299b8b51e8ef)
 
 ## AI collaboration
 
