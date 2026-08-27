@@ -1,0 +1,56 @@
+:root {
+  /* Color */
+  --bg: #f5f6f8;
+  --surface: #ffffff;
+  --ink: #14161c;
+  --ink-muted: #6b7080;
+  --border: #e4e6eb;
+  --accent: #5b3df5;
+  --accent-soft: #efeaff;
+  --amber: #f5a623;
+  --amber-soft: #fef3df;
+  --view-color: #b8bdd0;
+  --click-color: #8d7bf3;
+  --cart-color: #f5a623;
+  --danger: #e5484d;
+
+  /* Type */
+  --font-display: "Space Grotesk", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+
+  /* Radius / shadow */
+  --radius: 10px;
+  --shadow-sm: 0 1px 2px rgba(20, 22, 28, 0.06);
+  --shadow-md: 0 4px 16px rgba(20, 22, 28, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-variant-numeric: tabular-nums;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
