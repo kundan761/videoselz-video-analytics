@@ -27,7 +27,7 @@
 
 .thNum,
 .thFunnel {
-  text-align: left;
+  text-align: right;
 }
 
 .thFunnel {
@@ -67,7 +67,7 @@
 
 .numCell {
   padding: 16px 20px;
-  text-align: right;
+  text-align: center;
   font-size: 14px;
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
