@@ -4,8 +4,6 @@ A dashboard for e-commerce merchants to track how their shoppable videos are
 performing — views, clicks, and add-to-cart conversions, aggregated per
 video and visualized as a proportional funnel bar.
 
-Built for the Videoselz Full Stack Developer take-home assignment (Aug 2026).
-
 ## Tech stack
 
 | Layer     | Choice                                                        |
